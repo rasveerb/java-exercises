@@ -1,0 +1,9 @@
+#intelliJ folders
+/.idea
+/out
+
+#all class files
+*.class
+
+#all iml files
+*.iml
