@@ -1,3 +1,4 @@
+/* This class calculates the area of a rectangle */
 package Rectangle;
 
 public class Rectangles {

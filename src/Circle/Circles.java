@@ -1,3 +1,4 @@
+/*This class calculates the area and the circumference of a circle. */
 package Circle;
 
 public class Circles {
