@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KgConversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KgConversions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/KgConversionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KgConversionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,8 +138,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.KgConversionsTest" />
-        <item itemvalue="JUnit.KgConversionsTest.stonesAndOuncesToKg" />
         <item itemvalue="JUnit.KgConversionsTest.tonToKg" />
+        <item itemvalue="JUnit.KgConversionsTest.stonesAndOuncesToKg" />
         <item itemvalue="JUnit.KgConversionsTest.grainToKg" />
         <item itemvalue="JUnit.KgConversionsTest.drachmToKg" />
       </list>
@@ -168,25 +167,25 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1591295614673" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591871564947">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591871866340">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591871564947" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591871866340" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1591817666323" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591871564942">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591871866339">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591871564942" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591871866339" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1591817666321" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591871564941">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591871866339">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591871564941" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591871866339" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1591817666320" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591871564943">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591871866340">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591871564943" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591871866340" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1591817666322" />
     <state x="128" y="0" key="SettingsEditor" timestamp="1591817047432">
       <screen x="0" y="0" width="1280" height="800" />
