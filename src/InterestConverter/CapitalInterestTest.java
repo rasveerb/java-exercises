@@ -16,4 +16,14 @@ public class CapitalInterestTest {
         assertEquals(112.04,testConverter.interestCalculator(100,interest,5),0);
     }
 
+    @Test
+    public  void hundredYearInterest() {
+        assertEquals(971.77,testConverter.interestCalculator(100,interest,100),0);
+    }
+
+    @Test
+    public void fiveHundredYearInterest() {
+        assertEquals(8665963.51, testConverter.interestCalculator(100,interest,500),0);
+    }
+
 }

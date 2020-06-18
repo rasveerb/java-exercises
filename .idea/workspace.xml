@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/KgConverter/KgConversionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KgConverter/KgConversionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,41 +42,13 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.KgConversionsTest">
+  <component name="RunManager" selected="JUnit.CapitalInterestTest.hundredYearInterest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
-    </configuration>
-    <configuration name="CapitalInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterest" />
-      <module name="java-exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="InterestConverter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KgConversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversions" />
-      <module name="java-exercises" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="KgConverter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -102,6 +72,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="CapitalInterestTest.fiveHundredYearInterest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterestConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InterestConverter" />
+      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterestTest" />
+      <option name="METHOD_NAME" value="fiveHundredYearInterest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CapitalInterestTest.fiveYearInterest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-exercises" />
       <extension name="coverage">
@@ -113,6 +100,23 @@
       <option name="PACKAGE_NAME" value="InterestConverter" />
       <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterestTest" />
       <option name="METHOD_NAME" value="fiveYearInterest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalInterestTest.hundredYearInterest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-exercises" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterestConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InterestConverter" />
+      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterestTest" />
+      <option name="METHOD_NAME" value="hundredYearInterest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -203,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CapitalInterestTest.hundredYearInterest" />
+        <item itemvalue="JUnit.CapitalInterestTest.fiveHundredYearInterest" />
         <item itemvalue="JUnit.KgConversionsTest" />
         <item itemvalue="JUnit.CapitalInterestTest" />
         <item itemvalue="JUnit.CapitalInterestTest.fiveYearInterest" />
-        <item itemvalue="Application.CapitalInterest" />
-        <item itemvalue="Application.KgConversions" />
       </list>
     </recent_temporary>
   </component>
@@ -233,25 +237,25 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1591295614673" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592474486733">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592474993697">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592474486733" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592474993697" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1591817666323" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592474486732">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592474993696">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592474486732" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592474993696" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1591817666321" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592474486731">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592474993695">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592474486731" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592474993695" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1591817666320" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592474486733">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592474993696">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592474486733" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592474993696" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1591817666322" />
     <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1592474447691">
       <screen x="0" y="0" width="1280" height="800" />
