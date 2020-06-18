@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +41,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="JUnit.CapitalInterestTest.hundredYearInterest">
+  <component name="RunManager" selected="JUnit.CapitalInterestTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -207,10 +206,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.CapitalInterestTest" />
         <item itemvalue="JUnit.CapitalInterestTest.hundredYearInterest" />
         <item itemvalue="JUnit.CapitalInterestTest.fiveHundredYearInterest" />
         <item itemvalue="JUnit.KgConversionsTest" />
-        <item itemvalue="JUnit.CapitalInterestTest" />
         <item itemvalue="JUnit.CapitalInterestTest.fiveYearInterest" />
       </list>
     </recent_temporary>
