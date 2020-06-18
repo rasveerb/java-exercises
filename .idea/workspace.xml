@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterestTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KgConverter/KgConversionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KgConverter/KgConversionsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +52,20 @@
       <module />
       <method />
     </configuration>
+    <configuration name="CapitalInterest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterest" />
+      <module name="java-exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterestConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="KgConversions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversions" />
       <module name="java-exercises" />
@@ -70,44 +86,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KgConversionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CapitalInterestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-exercises" />
-      <option name="PACKAGE_NAME" value="KgConverter" />
-      <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversionsTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterestConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InterestConverter" />
+      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterestTest" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KgConversionsTest.grainToKg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CapitalInterestTest.fiveYearInterest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-exercises" />
-      <option name="PACKAGE_NAME" value="KgConverter" />
-      <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversionsTest" />
-      <option name="METHOD_NAME" value="grainToKg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="InterestConverter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="InterestConverter" />
+      <option name="MAIN_CLASS_NAME" value="InterestConverter.CapitalInterestTest" />
+      <option name="METHOD_NAME" value="fiveYearInterest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KgConversionsTest.stonesAndOuncesToKg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="KgConversionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-exercises" />
       <option name="PACKAGE_NAME" value="KgConverter" />
       <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversionsTest" />
-      <option name="METHOD_NAME" value="stonesAndOuncesToKg" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KgConversionsTest.tonToKg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-exercises" />
-      <option name="PACKAGE_NAME" value="KgConverter" />
-      <option name="MAIN_CLASS_NAME" value="KgConverter.KgConversionsTest" />
-      <option name="METHOD_NAME" value="tonToKg" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -188,10 +204,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.KgConversionsTest" />
+        <item itemvalue="JUnit.CapitalInterestTest" />
+        <item itemvalue="JUnit.CapitalInterestTest.fiveYearInterest" />
+        <item itemvalue="Application.CapitalInterest" />
         <item itemvalue="Application.KgConversions" />
-        <item itemvalue="JUnit.KgConversionsTest.tonToKg" />
-        <item itemvalue="JUnit.KgConversionsTest.stonesAndOuncesToKg" />
-        <item itemvalue="JUnit.KgConversionsTest.grainToKg" />
       </list>
     </recent_temporary>
   </component>
@@ -217,26 +233,42 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1591295614673" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591874480565">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592474486733">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591874480565" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592474486733" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1591817666323" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591874480564">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592474486732">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591874480564" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592474486732" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1591817666321" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591874480563">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592474486731">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591874480563" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592474486731" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1591817666320" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591874480565">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592474486733">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591874480565" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592474486733" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1591817666322" />
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1592474447691">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592474447691" />
+    <state width="1238" height="264" key="GridCell.Tab.1.center" timestamp="1592474447690">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.center/0.0.1280.800@0.0.1280.800" timestamp="1592474447690" />
+    <state width="1238" height="264" key="GridCell.Tab.1.left" timestamp="1592474447688">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.left/0.0.1280.800@0.0.1280.800" timestamp="1592474447688" />
+    <state width="1238" height="264" key="GridCell.Tab.1.right" timestamp="1592474447691">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state width="1238" height="264" key="GridCell.Tab.1.right/0.0.1280.800@0.0.1280.800" timestamp="1592474447691" />
     <state x="128" y="0" key="SettingsEditor" timestamp="1591817047432">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -253,9 +285,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1591817015922" />
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1591867380640">
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1592472933859">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1591867380640" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1592472933859" />
   </component>
 </project>
