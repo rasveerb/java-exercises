@@ -31,7 +31,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="add_unversioned_files" value="true" />
+    <property name="add_unversioned_files" value="true&#10;/Users/rasveerbansi/Documents/coding tutorials/java/java-exercises/src/Fractions.java" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -181,10 +181,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="128" y="0" key="#Project_Structure" timestamp="1592476180738">
+    <state x="128" y="23" width="1024" height="737" key="#Project_Structure" timestamp="1592559512699">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="128" y="0" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1592476180738" />
+    <state x="128" y="23" width="1024" height="737" key="#Project_Structure/0.0.1280.800@0.0.1280.800" timestamp="1592559512699" />
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1591295614673">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -213,9 +213,9 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="352" y="299" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1280.800@0.0.1280.800" timestamp="1591295861531" />
-    <state x="34" y="22" key="new project wizard" timestamp="1592476069994">
+    <state x="34" y="22" key="new project wizard" timestamp="1592559192971">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1592476069994" />
+    <state x="34" y="22" key="new project wizard/0.0.1280.800@0.0.1280.800" timestamp="1592559192971" />
   </component>
 </project>
