@@ -1,5 +1,5 @@
 package InterestConverter;
-
+/* A class which calculates the interest added to a capital sum */
 public class CapitalInterest {
 
     double capital = 100;
