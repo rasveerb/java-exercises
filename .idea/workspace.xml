@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Fractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fractions/FractionsTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +45,21 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CirclesTest">
+  <component name="RunManager" selected="Application.Fractions">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
       <method />
+    </configuration>
+    <configuration name="Fractions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Fractions" />
+      <module name="java-exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -162,6 +173,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Fractions" />
         <item itemvalue="JUnit.CirclesTest" />
         <item itemvalue="JUnit.RectanglesTest" />
       </list>
@@ -189,22 +201,22 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1591295614673" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1591296064306">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592587020204">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1591296064306" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1591296064305">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592587020204" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592587020203">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1591296064305" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1591296064305">
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592587020203" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592587020202">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1591296064305" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1591296064306">
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592587020202" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592587020204">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1591296064306" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592587020204" />
     <state x="128" y="0" key="SettingsEditor" timestamp="1591295746356">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
