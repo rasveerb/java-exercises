@@ -1,4 +1,4 @@
-/* A class which calculates the addition and multiplication of fractions.*/
+package Fractions;/* A class which calculates the addition and multiplication of fractions.*/
 
 public class Fractions {
     int numerator1;
