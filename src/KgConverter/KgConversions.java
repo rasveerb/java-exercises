@@ -1,5 +1,4 @@
 package KgConverter;
-
 /* This class takes imperial measurements and converts them into Kilograms*/
 public class KgConversions {
 

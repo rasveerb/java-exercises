@@ -2,10 +2,6 @@ package InterestConverter;
 /* A class which calculates the interest added to a capital sum */
 public class CapitalInterest {
 
-    double capital = 100;
-    double interest = 2.3;
-    int years;
-
     public static double interestCalculator(double capital, double interest, int years){
         double total;
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc628cd1-cf43-41e3-af67-9b1df508849b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterestConverter/CapitalInterest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/KgConverter/KgConversions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/KgConverter/KgConversions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,53 +141,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="java-exercises" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="java-exercises" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -236,25 +191,25 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="367" y="96" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.800@0.0.1280.800" timestamp="1591295614673" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1592474993697">
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom" timestamp="1593002236521">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1592474993697" />
+    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1593002236521" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.736@0.23.1280.736" timestamp="1591817666323" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1592474993696">
+    <state width="1238" height="212" key="GridCell.Tab.0.center" timestamp="1593002236520">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1592474993696" />
+    <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1593002236520" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.736@0.23.1280.736" timestamp="1591817666321" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1592474993695">
+    <state width="1238" height="212" key="GridCell.Tab.0.left" timestamp="1593002236519">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1592474993695" />
+    <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1593002236519" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.736@0.23.1280.736" timestamp="1591817666320" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1592474993696">
+    <state width="1238" height="212" key="GridCell.Tab.0.right" timestamp="1593002236521">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1592474993696" />
+    <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1593002236521" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.736@0.23.1280.736" timestamp="1591817666322" />
     <state width="1238" height="264" key="GridCell.Tab.1.bottom" timestamp="1592474447691">
       <screen x="0" y="0" width="1280" height="800" />
